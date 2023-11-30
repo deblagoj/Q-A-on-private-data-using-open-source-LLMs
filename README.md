@@ -8,4 +8,7 @@
     <li>Leverage a Retrieval chain to pinpoint relevant text passages.</li>
     <li>Summarize information from retrieved content for succinct answers.</li>
     <li>Design a user-friendly chat interface with Gradio.</li>
+    <li>Link to the <a  href="https://blagojdelipetrev.com/blog/50/"> blog </a> </li>
+
+    
 </ul>
